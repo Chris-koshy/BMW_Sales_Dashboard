@@ -1,6 +1,6 @@
 # 🎯 Project Title:
 
-# BMW Sales Performance Analysis Dashboard (2010–2024)
+## BMW Sales Performance Analysis Dashboard (2010–2024)
 Built in Microsoft Power BI using DAX and interactive visuals.
 
 ## 🧩 Project Description
